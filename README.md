@@ -5,5 +5,5 @@
 # 需要安装图形处理库 Pillow
 
 使用方法:
-> cd meizitu
-> scrapy crawl meizitu
+# > cd meizitu
+# > scrapy crawl meizitu
